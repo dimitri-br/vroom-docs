@@ -1,0 +1,10 @@
+title: vroom Framework
+theme: minima
+markdown: kramdown
+logo: /assets/vroom-logo.png
+permalink: pretty
+exclude:
+  - README.md
+  - target/
+  - Cargo.lock
+  - Cargo.toml
